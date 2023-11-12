@@ -1,6 +1,6 @@
 [
   {"title":"Math",
-   "desc":"This quiz will test you on some basic math knowledge and test your problem-solving abilities. Good luck!\n\nTotal Questions: 3",
+   "desc":"Test your math skills with these challenges.",
    "questions":[
     {
       "text":"What is x in the equation 3x - 8 = 16?",
@@ -35,7 +35,7 @@
    ]
   },
   {"title":"Physics",
-   "desc":"This quiz will test you on some physics fundamentals and test your problem-solving abilities. Good luck!\n\nTotal Questions: 3",
+   "desc":"Test your knowledge of physics fundamentals.",
    "questions":[
     {
       "text":"What is the SI unit of force?",
@@ -70,7 +70,7 @@
    ]
   },
   {"title":"Marvel Super Heroes",
-   "desc":"This quiz will test your knowledge of the Marvel Universe and the super heroes that work to protect it. Good luck!\n\nTotal Questions: 3",
+   "desc":"Dive into the Marvel Universe with your favorite heroes.",
    "questions":[
     {
       "text":"Who is known as the \"God of Thunder\"?",
@@ -105,7 +105,7 @@
    ]
   },
   {"title":"Harry Potter",
-   "desc":"This quiz will test you on your knowledge of the Harry Potter series and the wizarding realm. Good luck!\n\nTotal Questions: 3",
+   "desc":"Dive into the magical wizarding world.",
    "questions":[
     {
       "text":"What is the name of the school that Harry Potter attends?",
